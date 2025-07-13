@@ -69,7 +69,7 @@ These roles make use of my front-end experience and provide paths to grow into U
 
 > **Goal:** Become a junior front-end developer and begin studying cybersecurity part-time.
 
-- Finish my CodeSpace software development course by **July 2024**  
+- Finish my CodeSpace software development course by **November 2025**  
 - Enroll in a part-time cybersecurity program within **6 months**  
 - Apply for entry-level or internship opportunities  
 - Keep building and refining my portfolio  
@@ -98,7 +98,7 @@ These roles make use of my front-end experience and provide paths to grow into U
 - 📚 Earn cybersecurity certifications  
 - 🤝 Network with schools for mentorship  
 - 💼 Freelance with local businesses  
-- 🧑‍🏫 Launch mentorship program for girls in tech  
+- 🧑‍🏫 Launch mentorship program for Economically disadvantaged communities in tech  
 
 ---
 
