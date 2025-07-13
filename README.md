@@ -1,163 +1,125 @@
-Personal Information🧑🏾‍💻📃
-Name: Lungelo Mavundla
-Date: 1 June 2025
-Current Role/Position: Student – Software Development Foundations
-Field of Interest: Frontend Development, Full-Stack Web Development, UX/UI Design
+# 🌟 Lungelo Mavundla – Career Development Plan
 
-Part 1: Self-Assessment Reflection
-Skills Analysis
-Current Skills and Areas of Expertise:
+Welcome to my personal career development roadmap! This repository documents my journey as a software development student exploring front-end technologies, cybersecurity, and long-term aspirations in tech mentorship.
 
-HTML5, CSS3, JavaScript (ES6+)
+---
 
-Responsive web design and accessibility principles
+## 📌 Personal Information
 
-Git and GitHub version control
+- **Name:** Lungelo Mavundla  
+- **Date of Birth:** 26 October 2002  
+- **Current Role:** Software Development Student  
+- **Field of Interest:** Front-End Development, Cybersecurity  
 
-Figma and basic UI/UX design
+---
 
-Problem-solving, debugging, and collaboration
+## 🧠 Self-Assessment Reflection
 
-Strong communication and presentation abilities
+### 🔧 Skills I Currently Have
 
-Skills to Develop or Improve:
+- **HTML** – Structuring clean and accessible web content  
+- **CSS** – Styling and layout design  
+- **JavaScript** – Adding interactivity to web pages  
+- **Tailwind CSS** – Utility-first styling framework  
+- **Firebase** – Backend services for real-time apps  
+- **Portfolio Website** – Created to showcase my work and growth  
 
-Backend development (Node.js, Express, MongoDB)
+### 🎯 Skills I'm Developing
 
-RESTful APIs and database integration
+- Advanced JavaScript (logic, DOM, APIs)  
+- Responsive frameworks (React, Vue)  
+- Deeper understanding of cybersecurity  
+- UI/UX Design Principles  
+- Problem-solving and debugging  
 
-Advanced JavaScript frameworks (React.js or Vue.js)
+---
 
-Time management in multi-stage project workflows
+## 💡 Interests and Values
 
-Working in agile or real-world development teams
+### Career Interests:
+- Front-End Web Development  
+- Cybersecurity  
+- UI/UX Design  
+- Tech in Gaming and Everyday Tools  
 
-Interests and Values
-Key Career Interests:
+### Workplace Values:
+- Non-toxic and collaborative teams  
+- Mentorship and learning opportunities  
+- Inclusivity and purpose-driven work  
+- Environmentally conscious tech  
 
-Building interactive and user-friendly websites or applications
+---
 
-Working on real-world tech projects that impact communities
+## 🔍 Career Exploration
 
-Learning new frameworks and building a personal developer brand
+I've been researching roles and industries that align with both my skills and interests. Some areas that stood out include:
 
-Combining creativity with logic in tech environments
+### 🚀 Companies of Interest:
+- **Amazon** – Front-End Developer, UX Developer  
+- **Google** – UI/UX Designer, Web Developer, Front-End Engineer  
 
-Workplace Values:
+### 🧩 Alignment with My Profile:
+These roles make use of my front-end experience and provide paths to grow into UX or cybersecurity. I'm especially drawn to companies that innovate at scale and encourage growth.
 
-Continuous learning and growth
+---
 
-Collaboration and knowledge sharing
+## 🎯 SMART Career Goals
 
-Respect for diversity and inclusion
+### ✅ Short-Term Goals (1–2 Years)
 
-Work that creates meaningful impact, especially in education and social tech
+> **Goal:** Become a junior front-end developer and begin studying cybersecurity part-time.
 
-Part 2: Career Exploration Insights
-Industries and Roles Explored
-Industries:
+- Finish my CodeSpace software development course by **July 2024**  
+- Enroll in a part-time cybersecurity program within **6 months**  
+- Apply for entry-level or internship opportunities  
+- Keep building and refining my portfolio  
 
-Software and Web Development
+### 🌱 Long-Term Goals (3–5 Years)
 
-Educational Technology (EdTech)
+> **Goal:** Build a career in cybersecurity, start freelancing, and mentor young girls in tech.
 
-Startups and Digital Innovation
+- Get certified and employed in a full-time cybersecurity role  
+- Take on at least **5 freelance** projects  
+- Launch a small mentoring initiative for girls interested in tech  
+- Continue growing my skills in both development and security  
 
-Roles:
+---
 
-Frontend Developer
+## 🛠️ Action Plan
 
-Full-Stack Developer (Junior level)
+### For Short-Term Success:
+- ✅ Complete CodeSpace program  
+- ✅ Build projects for portfolio  
+- ✅ Apply to junior dev roles  
+- ✅ Enroll in cybersecurity short courses  
+- ✅ Improve time management for part-time study  
 
-UX/UI Designer
+### For Long-Term Goals:
+- 📚 Earn cybersecurity certifications  
+- 🤝 Network with schools for mentorship  
+- 💼 Freelance with local businesses  
+- 🧑‍🏫 Launch mentorship program for girls in tech  
 
-Technical Project Assistant
+---
 
-Alignment with Personal Profile
-Alignment:
+## ⚠️ Challenges & Opportunities
 
-Frontend roles match well with my strengths in HTML/CSS/JavaScript and interest in design
+### Challenges:
+- Balancing part-time study and work  
+- Staying consistent with upskilling  
 
-Full-stack roles align with my long-term goals and my desire to learn backend technologies
+### Opportunities:
+- Career days and tech meetups  
+- Online coding communities (GitHub, Dev.to, LinkedIn)  
+- Informational interviews with industry pros  
 
-UX/UI roles appeal to my creativity and user-first thinking
+---
 
-Gaps or Areas for Further Exploration:
+## 📬 Let’s Connect!
 
-Limited real-world experience working with backend services or APIs
+I’m always looking to connect with others in tech, especially those passionate about front-end development, cybersecurity, or mentorship. If you’re reading this and want to collaborate, feel free to reach out!
 
-Need to explore which tech stacks are most in demand in my region
+---
 
-Still learning about DevOps and cloud-related paths
-
-Part 3: SMART Career Goals
-Short-term Goals (Next 1–2 years):
-Complete at least 3 responsive portfolio projects using HTML, CSS, JavaScript – by December 2025
-Rationale: To showcase my skills and prepare for job applications
-
-Learn backend development with Node.js and MongoDB – by October 2025
-Rationale: To move towards full-stack capabilities and understand the full software lifecycle
-
-Contribute to an open-source project – by November 2025
-Rationale: To gain collaborative development experience and network with developers
-
-Build and maintain an active LinkedIn presence – connect with 3 professionals monthly starting August 2025
-Rationale: To create networking opportunities and gain industry insights
-
-Long-term Goals (3–5 years):
-Secure a junior web developer or full-stack developer role – by mid-2026
-
-Enroll in a full-time bootcamp or advanced development program – by early 2027
-
-Build a personal brand (website, blog, GitHub portfolio) – starting January 2026
-
-Explore mentorship or coaching roles for younger students in tech – by 2028
-
-These goals align with my passion for learning, teaching, and building tech that makes a difference.
-
-Part 4: Action Plan
-Steps to Achieve Short-term Goals:
-Goal	Action Steps	Resources Needed
-Build 3 portfolio projects	Use Figma designs, code HTML/CSS/JS, make responsive	GitHub, VS Code, Browser dev tools
-Learn backend basics	Complete Node.js + Express tutorials	freeCodeCamp, MDN Docs, YouTube
-Contribute to open-source	Find beginner-friendly repos, submit PRs	GitHub, Discord coding groups
-Network via LinkedIn	Share posts, message professionals, attend webinars	LinkedIn, Meetup, industry events
-
-Preparation for Long-term Goals:
-Research tech bootcamps and compare costs, content, and outcomes
-
-Create blog or Medium profile and write monthly about tech learning
-
-Volunteer to assist with coding clubs or entry-level tech programs
-
-Expand knowledge of software development tools (CI/CD, testing, deployment)
-
-Part 5: Reflection on Challenges and Opportunities
-Anticipated Challenges
-Balancing personal learning with other life responsibilities
-
-Imposter syndrome or fear of not being "good enough"
-
-Limited access to real-world work opportunities without experience
-
-Staying consistent and motivated without external deadlines
-
-Strategies to Overcome:
-
-Break large tasks into weekly or daily chunks
-
-Join peer accountability or study groups
-
-Reflect monthly on progress and wins
-
-Apply for internships, even unpaid, to gain experience
-
-Opportunities for Growth
-Rising demand for developers in South Africa and globally
-
-Access to free, high-quality online courses and coding bootcamps
-
-Growing local tech community via LinkedIn, tech events, and forums
-
-Open-source platforms to build credibility and networks.
+> _“The future belongs to those who prepare for it today.” – Malcolm X_
 
